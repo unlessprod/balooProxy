@@ -22,7 +22,7 @@
             "certificate": "server.crt",
             "key": "server.key",
             "webhook": {
-                "url": "https://discord.com/api/webhooks/1055573557880569886/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+                "url": "https://discord.com/api/webhooks/1062079638031044689/qz-y3FgEpH_yHSCdUQfcJ_uVM6x1VebQG80iahAtmYxKY6CUNYeZNP4uTKTCy6aKDDhd",
                 "name": "balooProxy",
                 "avatar": "https://avatars.githubusercontent.com/u/73783549",
                 "attack_start_msg": "A DDoS attack has been detected against your domain `{{domain.name}}`",
