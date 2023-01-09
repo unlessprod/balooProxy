@@ -16,9 +16,9 @@
     },
     "domains": [
         {
-            "name": "baloo.dog",
+            "name": "voes.cf",
             "scheme": "http",
-            "backend": "51.15.25.108",
+            "backend": "193.42.33.80",
             "certificate": "server.crt",
             "key": "server.key",
             "webhook": {
@@ -55,9 +55,9 @@
             "disableRawStage2": 25
         },
         {
-            "name": "baloo.one",
+            "name": "voes.cf",
             "scheme": "https",
-            "backend": "76.128.64.107",
+            "backend": "193.42.33.80",
             "certificate": "server.crt",
             "key": "server.key",
             "webhook": {
