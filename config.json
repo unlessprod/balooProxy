@@ -1,6 +1,6 @@
 {
     "proxy": {
-        "cloudflare": false,
+        "cloudflare": true,
         "maxLogLength": 10,
         "secrets": {
             "cookie": "RE2lsXJdc2hBOd8cOmv9",
@@ -16,13 +16,13 @@
     },
     "domains": [
         {
-            "name": "baloo.dog",
+            "name": "voes.cf",
             "scheme": "http",
-            "backend": "51.15.25.108",
+            "backend": "193.42.33.80",
             "certificate": "server.crt",
             "key": "server.key",
             "webhook": {
-                "url": "https://discord.com/api/webhooks/1055573557880569886/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+                "url": "https://discord.com/api/webhooks/1062079638031044689/qz-y3FgEpH_yHSCdUQfcJ_uVM6x1VebQG80iahAtmYxKY6CUNYeZNP4uTKTCy6aKDDhd",
                 "name": "balooProxy",
                 "avatar": "https://avatars.githubusercontent.com/u/73783549",
                 "attack_start_msg": "A DDoS attack has been detected against your domain `{{domain.name}}`",
@@ -55,9 +55,9 @@
             "disableRawStage2": 25
         },
         {
-            "name": "baloo.one",
+            "name": "voes.cf",
             "scheme": "https",
-            "backend": "76.128.64.107",
+            "backend": "193.42.33.80",
             "certificate": "server.crt",
             "key": "server.key",
             "webhook": {
