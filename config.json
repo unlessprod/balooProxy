@@ -1,6 +1,6 @@
 {
     "proxy": {
-        "cloudflare": false,
+        "cloudflare": true,
         "maxLogLength": 10,
         "secrets": {
             "cookie": "RE2lsXJdc2hBOd8cOmv9",
